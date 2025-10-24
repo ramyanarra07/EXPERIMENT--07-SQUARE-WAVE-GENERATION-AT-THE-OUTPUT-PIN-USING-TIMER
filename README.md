@@ -243,23 +243,32 @@ void assert_failed(uint8_t *file, uint32_t line)
 FOR PULSE AT 500
 
 TON = 30ms
+
 TOFF=15.5ms
+
 TOTAL TIME = 30ms+15.5ms = 45.5ms
+
 FREQUENCY = 1/45.5ms = 0.021mhz = 21hz
 
 FOR PULSE AT 700
 
 TON = 42ms
+
 TOFF= 9ms
+
 TOTAL TIME = 42ms + 9ms = 51ms
+
 FREQUENCY = 1/51ms =19hz
 
 
 FOR PULSE AT 900
 
 TON = 55ms
+
 TOFF= 3.5ms
+
 TOTAL TIME = 55ms + 3.5ms = 58.5ms
+
 FREQUENCY = 1/58.5ms = 0.017 mhz = 17hz
 
 
